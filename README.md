@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dcesiumoq%26style%3Djson&query=%24.message&label=PROFILE%20VIEWS&labelColor=0D0D0D&color=e19bb7&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=cesiumoq&label=PROFILE+VIEWS&labelColor=0D0D0D&color=e19bb7&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
   </p>
 
   <p align="center">
