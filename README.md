@@ -6,6 +6,14 @@
 
   <p align="center">
     <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=cesiumoq&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=cesiumoq&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&text_color=FFFFFF"
+      alt="Most Used Languages"
+      height="165"
+    />
+  </p>
+
+  <p align="center">
+    <img
       src="https://github-readme-stats.vercel.app/api?username=cesiumoq&show_icons=true&commits_year=2026&hide=contribs&card_width=450&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&icon_color=f5d0df&text_color=FFFFFF&ring_color=e19bb7"
       alt="GitHub Stats"
       height="170"
@@ -14,24 +22,6 @@
       src="https://github-readme-streak-stats.herokuapp.com/?user=cesiumoq&theme=midnight_purple&hide_border=false&border_color=e19bb7&background=0D0D0D&stroke=e19bb7&ring=f5d0df&fire=e19bb7&currStreakLabel=f5d0df&sideLabels=f5d0df&sideNums=f5d0df&currStreakNum=FFFFFF&dates=AAAAAA"
       alt="GitHub Streak"
       height="170"
-    />
-  </p>
-
-  <p align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=cesiumoq&show_icons=true&commits_year=2025&hide=contribs,stars,prs,issues&card_width=320&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&icon_color=f5d0df&text_color=FFFFFF&ring_color=e19bb7"
-      alt="Commits 2025"
-      height="175"
-    />
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=cesiumoq&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=cesiumoq&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&text_color=FFFFFF"
-      alt="Most Used Languages"
-      height="175"
-    />
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=cesiumoq&theme=dracula&no-frame=false&no-bg=false&row=1&column=3&margin-w=6&border_color=e19bb7"
-      alt="Trophies"
-      height="175"
     />
   </p>
 
