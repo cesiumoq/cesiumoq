@@ -1,14 +1,14 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=cesiumoq&color=e19bb7&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dcesiumoq%26style%3Djson&query=%24.message&label=PROFILE%20VIEWS&labelColor=0D0D0D&color=e19bb7&style=for-the-badge" alt="Profile Views"/>
   </p>
 
   <p align="center">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=cesiumoq&layout=compact&langs_count=6&cache_seconds=86400&exclude_repo=cesiumoq&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&text_color=FFFFFF"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=cesiumoq&layout=compact&langs_count=6&card_width=450&cache_seconds=86400&exclude_repo=cesiumoq&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&text_color=FFFFFF"
       alt="Most Used Languages"
-      height="165"
+      width="450"
     />
   </p>
 
