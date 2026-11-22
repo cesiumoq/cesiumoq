@@ -29,7 +29,6 @@
     <img src="https://img.shields.io/badge/C++-e19bb7?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/C%23-e19bb7?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
     <img src="https://img.shields.io/badge/Rust-e19bb7?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-    <img src="https://img.shields.io/badge/Zig-e19bb7?style=for-the-badge&logo=zig&logoColor=white" alt="Zig"/>
     <img src="https://img.shields.io/badge/JavaScript-e19bb7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/TypeScript-e19bb7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/HTML5-e19bb7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
