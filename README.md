@@ -6,21 +6,21 @@
 
   <p align="center">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=cesiumoq&layout=compact&langs_count=6&card_width=450&cache_seconds=86400&exclude_repo=cesiumoq&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&text_color=FFFFFF"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=cesiumoq&layout=compact&langs_count=6&card_width=520&cache_seconds=86400&exclude_repo=cesiumoq&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&text_color=FFFFFF"
       alt="Most Used Languages"
-      width="450"
+      width="520"
     />
   </p>
 
   <p align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=cesiumoq&show_icons=true&commits_year=2026&hide=contribs&card_width=450&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&icon_color=f5d0df&text_color=FFFFFF&ring_color=e19bb7"
-      alt="GitHub Stats"
+      alt="GitHub Stats 2026"
       height="170"
     />
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=cesiumoq&theme=midnight_purple&hide_border=false&border_color=e19bb7&background=0D0D0D&stroke=e19bb7&ring=f5d0df&fire=e19bb7&currStreakLabel=f5d0df&sideLabels=f5d0df&sideNums=f5d0df&currStreakNum=FFFFFF&dates=AAAAAA"
-      alt="GitHub Streak"
+      src="https://github-readme-stats.vercel.app/api?username=cesiumoq&show_icons=true&commits_year=2025&hide=contribs&card_width=450&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&icon_color=f5d0df&text_color=FFFFFF&ring_color=e19bb7"
+      alt="GitHub Stats 2025"
       height="170"
     />
   </p>
