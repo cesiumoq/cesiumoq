@@ -17,7 +17,7 @@
 
 <p align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=cesiumoq&show_icons=true&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&icon_color=f5d0df&text_color=FFFFFF&ring_color=e19bb7"
+  src="https://github-readme-stats.vercel.app/api?username=cesiumoq&show_icons=true&commits_year=2026&hide=contribs&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&icon_color=f5d0df&text_color=FFFFFF&ring_color=e19bb7"
   alt="GitHub Stats"
   width="43%"
 />
