@@ -8,7 +8,7 @@
     <img
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=cesiumoq&layout=compact&langs_count=6&card_width=500&cache_seconds=86400&exclude_repo=cesiumoq&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&text_color=FFFFFF"
       alt="Most Used Languages"
-      width="62%"
+      width="48%"
     />
   </p>
 
@@ -16,12 +16,12 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=cesiumoq&show_icons=true&commits_year=2026&hide=contribs&card_width=450&hide_border=false&border_color=e19bb7&bg_color=0D0D0D&title_color=f5d0df&icon_color=f5d0df&text_color=FFFFFF&ring_color=e19bb7"
       alt="GitHub Stats"
-      width="48%"
+      width="41%"
     />
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=cesiumoq&bg_color=0D0D0D&color=f5d0df&line=e19bb7&point=FFFFFF&area=true&area_color=e19bb7&hide_border=false&border_color=e19bb7&custom_title=Contribution%20Graph"
       alt="Contribution Graph"
-      width="48%"
+      width="41%"
     />
   </p>
 
